@@ -1,3 +1,4 @@
 # mysiteweb
-Just a study of the Html css and javascript 
+Just a study of Html CSS and javascript 
 cool training 
+Be free to tweak codes 
